@@ -3,8 +3,9 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://profile-counter.glitch.me/mohammadsidani/count.svg" />
 </p>
+
 ## I'm a Software Engineer and Web Developer
 ## My GitHub Stats 💻
 
