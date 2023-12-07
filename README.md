@@ -6,7 +6,7 @@
   <img src="https://profile-counter.glitch.me/mohammadsidani/count.svg" />
 </p>
 
-## I'm a Software Engineer and Web Developer
+## I'm a Software Engineer.
 ## My GitHub Stats 💻
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadsidani&hide=java,html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
