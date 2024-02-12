@@ -7,6 +7,7 @@
 }
 ```
 - 👀 I’m interested in
+- [x] Automation
 - [x] Full-stack Software Development
 - [x] Technical Consultancy 
 - [x] Game Development 
